@@ -33,6 +33,7 @@ body {
     align-items: center;
     justify-content: center;
     border-radius: 100px;
+    padding: 5%;
 }
 
 .title {
@@ -83,13 +84,18 @@ body {
     margin: 2em;
 }
 
-.leftcontent .flowfromleft h3, .rightcontent .flowfromright h3{
+.leftcontent .flowfromleft h3,
+.rightcontent .flowfromright h3 {
     margin: 0px;
+    padding: 5%;
 }
 
-.leftcontent .flowfromleft p, .rightcontent .flowfromright p{
+.leftcontent .flowfromleft p,
+.rightcontent .flowfromright p {
     margin: 0px;
+    padding: 5%;
 }
+
 
 /*new*/
 

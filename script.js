@@ -6,7 +6,7 @@ $(window).scroll(function() {
     })
     $('.flowfromleft').css({
         //width: (50 + scroll / 5) + "%",
-        right: ((scroll / 100)-40) + "%"
+        right: ((scroll / 100) - 40) + "%"
     })
 
 });
